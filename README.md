@@ -11,5 +11,5 @@ sendo capaz de executar todos os conceitos dos quais havia estudado.</p><br>
 <li>Mostra a situação atual do usuário.</li>
 <li>E logo abaixo o sistema mostra uma tabela de IMC onde o usuário pode ele mesmo comparar o seu resultado com as informações da tabela.</li>
 <li>Caso ele queira resetar o'que escreveu ele pode clicar no botão de limpar.</li>
-</ul>
+</ul><br>
 <p>Link para a vizualização do projeto https://dancing-crepe-cfb892.netlify.app/<p>
